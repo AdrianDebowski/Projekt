@@ -1,0 +1,7 @@
+{
+  "sortList": [
+{"label":"Alfabetycznie","value":"title"},
+{"label":"Chronologicznie","value":"when"},
+{"label":"Achronologicznie","value":"-when"}
+  ]
+}

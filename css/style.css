@@ -1,0 +1,56 @@
+body {
+	font-size:18px; 
+	color:yellow; 
+	background:#000000;
+    font-family: 'Lato', sans-serif;
+}
+#tytul{
+	color:green;
+	font-size:100px;
+	font-family: 'Lato', sans-serif;	
+}
+
+#informacja{	
+	color:gold;
+	font-size:20px;
+	font-family: 'Lato', sans-serif;	
+}
+
+#naglowek{
+	color:blue;
+	font-size:50px;
+	font-family:'Lato',sans-serif;
+}
+#dane{
+	color:white;
+	font-size:15px;
+	font-family:'Lato',sans-serif;
+}
+#polityka{
+	color:orange;
+	font-family: 'Lato', sans-serif;	
+}
+#polityka2{
+	color:red;
+	font-family: 'Lato', sans-serif;	
+}
+#polityka3{
+	color:black;
+	font-family: 'Lato', sans-serif;	
+}
+#adres{
+	color:lightgreen;
+	font-family: 'Lato', sans-serif;
+}
+#adres2{
+	color:blue;
+	font-family: 'Lato', sans-serif;
+}
+#ustawienia{
+	color:black;
+	font-family: 'Lato', sans-serif;
+}
+#ustawienia2{
+	color:grey;
+	font-family: 'Lato', sans-serif;
+}
